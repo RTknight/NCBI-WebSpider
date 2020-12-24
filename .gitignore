@@ -10,8 +10,6 @@
 *.userosscache
 *.sln.docstates
 
-SuperNoobHeardSeashroomFencingEveryNightAndAhhhWoKunLe
-
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
@@ -341,4 +339,4 @@ ASALocalRun/
 # BeatPulse healthcheck temp database
 healthchecksdb
 
-!SuperNoobHeardSeashroomFencingEveryNightAndAhhhWoKunLe.dll
+SuperNoobHeardSeashroomFencingEveryNightAndAhhhWoKunLe
