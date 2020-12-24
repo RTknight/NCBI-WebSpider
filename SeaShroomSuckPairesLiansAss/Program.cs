@@ -9,7 +9,7 @@ namespace SeaShroomSuckPairesLiansAss
         static void Main(string[] args)
         {
             //设定爬虫所需的网页数据缓冲区字节大小（如果实在速度慢再修改）
-            NCBI.LikexinWoZhenDeHaoXiHuanNiMuaaaaaaaPairesLianXiaGeYueGaoKaoDanTaTianTianWanWarThunder = 256;
+
             //获取所有论文
             PairesLianKickyourAss.GetArticles();
 
